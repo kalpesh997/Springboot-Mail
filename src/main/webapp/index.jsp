@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h2>Send a mail using Spring Boot</h2>
 <form action="send" method="post">
 
 	name : <input type="text" name="name" > <br/>		
